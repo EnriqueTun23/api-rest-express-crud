@@ -1,0 +1,6 @@
+{
+    "nombre": "App Rest basic",
+    "configDB": {
+        "host": "pruduction-db"
+    }
+}
